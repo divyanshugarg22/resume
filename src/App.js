@@ -1,8 +1,7 @@
 import React from 'react';
 import MainLayout from './components/layouts/MainLayout/MainLayout';
-import LeftLayout from './components/layouts/MainLayout/LeftColumn';
-import RightLayout from './components/layouts/MainLayout/RightLayout';
 
+import '../styles/w3.css'
 const App = () => {
   return <>
   <MainLayout>
